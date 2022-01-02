@@ -28,7 +28,6 @@ function App() {
               <Route exact path="/">
                 {!user && <Redirect to="/login" />}
                 {user && <Dashboard />}
-                <Dashboard />
               </Route>
               <Route path="/create">
                 {!user && <Redirect to="/login" />}
