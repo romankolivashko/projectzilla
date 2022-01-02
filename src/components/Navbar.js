@@ -1,6 +1,9 @@
 import { Link } from 'react-router-dom'
 import './Navbar.css'
-import Logo from '../assets/logo3.svg'
+// import Logo from '../assets/logo3.svg'
+// import Logo from '../assets/notebook.png'
+//import Logo from '../assets/blocks.png'
+import Logo from '../assets/calendar.svg'
 import { useLogout } from '../hooks/useLogout'
 import { useAuthContext } from '../hooks/useAuthContext';
 
