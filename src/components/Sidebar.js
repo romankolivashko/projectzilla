@@ -13,7 +13,7 @@ export default function Sidebar() {
   return (
     <div className='sidebar'>
       <div className="sidebar-content">
-        <div className="userNama">
+        <div className="user">
           <Avatar src={user.photoURL} />
           <p>Hey there, {user.displayName}</p>
         </div>
