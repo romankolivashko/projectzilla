@@ -68,7 +68,7 @@ Asana-like project management app, logged-in users are able to collaborate and a
 * _HTML5_
 * _CSS3_
 * _React_
-* _Firebase 8.5
+* _Firebase 8.5_
 * _Javascript_
 * _Babel_
 * _Markdown_
